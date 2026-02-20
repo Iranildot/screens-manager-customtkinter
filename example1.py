@@ -37,7 +37,8 @@ items = [
 # Initialize the screen manager with bottom navigation
 manager = ScreensManager(
     app,
-    transition=TRANSITION_FADE,
+    transition=TRANSITION_SLIDE,
+    direction=SLIDE_RIGHT,
     duration=250,
     nav_mode=NAV_BOTTOM,
     nav_items=items,

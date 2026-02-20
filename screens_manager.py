@@ -464,7 +464,7 @@ class ScreensManager:
         if s.corner_radius:
             drawer_kw["corner_radius"] = s.corner_radius
 
-        self._drawer_frame = ctk.CTkFrame(self.root, **drawer_kw)
+        self._drawer_frame = ctk.CTkFrame(self._drawer_overlay, **drawer_kw)
         self._drawer_frame.place(relheight=1, x=-s.width if s.side == "left" else w, y=0)
         
         self._drawer_overlay.lift()
