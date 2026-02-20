@@ -87,6 +87,20 @@ manager = ScreensManager(
 )
 ```
 
+
+
+https://github.com/user-attachments/assets/f297ca01-58db-4b07-aff0-6937181ace25
+
+
+
+https://github.com/user-attachments/assets/8f499fe2-09f1-4228-9388-248dfd219102
+
+
+
+https://github.com/user-attachments/assets/3fb86d5e-0829-4e43-a4d2-d743d39b4a70
+
+
+
 ### Navigation Drawer
 
 ```python
@@ -101,6 +115,13 @@ manager = ScreensManager(
     )
 )
 ```
+
+
+https://github.com/user-attachments/assets/008eec76-5165-43eb-85e7-17fa01fb0eda
+
+
+https://github.com/user-attachments/assets/64df0030-b834-4cdc-8344-98dcfd7c3237
+
 
 ---
 
